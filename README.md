@@ -320,7 +320,7 @@ The About page provides information about SnowMigrate.
 
 | Version | Date       | Changes |
 |---------|------------|---------|
-| 1.0     | 2025       | Initial release |
+| 1.0     | 2026       | Initial release |
 
 ## Support
 
