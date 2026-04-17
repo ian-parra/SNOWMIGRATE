@@ -18,7 +18,7 @@ Desktop tool for migrating databases (PostgreSQL, SQL Server, MySQL) to Snowflak
 Welcome to **SnowMigrate**, a desktop application for migrating data from traditional databases (PostgreSQL, SQL Server, MySQL) to Snowflake.
 
 ### Installation
-1. Download the installer from the releases page
+1. Download the installer from the [releases page](https://github.com/ian-parra/SNOWMIGRATE/releases/tag/v1.0.0)
 2. Run `SnowMigrate-Setup-x.x.x.exe`
 3. Follow the installation wizard
 
@@ -332,6 +332,8 @@ For issues or questions, open an issue on GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-ezequiel-parra/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USER)
+
+**Kevin Villota**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvs32)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kvs-dev)
 
